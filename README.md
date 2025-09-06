@@ -136,7 +136,7 @@ ONNX Runtime is available for **Android, iOS, C++, Python** → recommended for 
 ## 👨‍💻 Authors
 
 * **ML Pipeline:** [Stifler](https://github.com/STiFLeR7)
-* **App Development:** *(to be integrated by teammate)*
+* **App Development:** [Yash Jain](https://github.com/Yashjain329)
 
 ---
 
